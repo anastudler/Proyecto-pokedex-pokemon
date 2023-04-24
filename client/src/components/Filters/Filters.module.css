@@ -1,0 +1,13 @@
+.allFilters {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.selectFilter {
+  display: flex;
+}
+
+.buttonVerTodos {
+    padding: 20px;
+}
